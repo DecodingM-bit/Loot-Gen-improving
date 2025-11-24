@@ -1,6 +1,6 @@
 # 🛠 Bedrock Loot-Table Generator
-> [!NOTE]
-> I am not the real owner of this, i just trying to update something 
+> [!IMPORTANT]
+> I am not the real owner of this, i just trying to update and improve this!
 
 **⭐ [View the Website](https://bedrock-oss.github.io/bedrock-windmill/) ⭐**
 
