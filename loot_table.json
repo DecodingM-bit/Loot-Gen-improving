@@ -310,6 +310,37 @@
                 }
             }
         },
+        
+          "function_set_armor_trim": {
+            "properties": {
+                "function": {
+                    "type": "string",
+                    "template": "set_armor_trim",
+                    "options": {
+                        "hidden": true
+                    }
+                },
+                "material": {
+                    "type": "string",
+                    "title": "Material",
+                    "options": {
+                        "inputAttributes": {
+                            "placeholder": "Materials name e.g. resin"
+                        }
+                    }
+                },
+                "pattern": {
+                    "type": "string",
+                    "title": "Pattern",
+                    "options": {
+                        "inputAttributes": {
+                            "placeholder": "Trim name.."
+                        }
+                    }
+            }
+            }
+        },
+        
         "function_set_lore": {
             "properties": {
                 "function": {
@@ -844,6 +875,11 @@
                                 "$ref": "#/definitions/function_set_book_contents",
                                 "title": "Set Book Contents",
                                 "description": "Will drop or give a written book with author's name and book title."
+                            },
+                            {
+                                 "$ref": "#/definitions/function_set_armor_trim",
+                                "title": "Set Armor Trim",
+                                "description": "Adds trims to armor"
                             },
                             {
                                 "$ref": "#/definitions/function_fill_container",
