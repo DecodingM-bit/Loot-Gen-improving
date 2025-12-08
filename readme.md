@@ -2,6 +2,13 @@
 > [!IMPORTANT]
 > I am not the real owner of this, i just trying to update and improve this!
 
+|  Features | Description |
+| --------- |  ------ |
+| `Add Trim` function| add trims to armors|
+|
+| 
+| 
+
 **⭐ [View the Website](https://bedrock-oss.github.io/bedrock-windmill/) ⭐**
 
 This website allows you to create Loot Tables for the Bedrock Edition of Minecraft. For support, you may join the [Bedrock OSS Discord](https://discord.gg/XjV87YN).
