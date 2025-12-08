@@ -9,7 +9,8 @@
 | 
 | 
 
-**⭐ [View the Website](https://bedrock-oss.github.io/bedrock-windmill/) ⭐**
+**⭐ [View the Website](https://bedrock-oss.github.io/bedrock-windmill/)Original ⭐**
+[This one](https://decodingm-bit.github.io/Loot-Gen-improving/)
 
 This website allows you to create Loot Tables for the Bedrock Edition of Minecraft. For support, you may join the [Bedrock OSS Discord](https://discord.gg/XjV87YN).
 
