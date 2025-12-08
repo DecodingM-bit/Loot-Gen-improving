@@ -52,11 +52,6 @@
                         "$ref": "#/definitions/condition_random_regional_difficulty_chance",
                         "title": "Random Regional Difficulty Chance",
                         "description": "Sets a max regional difficulty random chance of the specified value."
-                    },
-                    {
-                        "$ref": "#/definitions/condition_bool_property",
-                        "title": "Bool Property",
-                        "description": "Returns the condition true if the actor has the item."
                     }
                 ]
             }
@@ -672,28 +667,6 @@
                 }
             }
         },
-        
-        "condition_bool_property": {
-            "properties": {
-                "condition": {
-                    "type": "string",
-                    "template": "bool_property",
-                    "options": {
-                        "hidden": true
-                    }
-                },
-                "domain": {
-                    "type": "string",
-                    "template": "minecraft:has_flower"                },
-                "value": 
-                    "type": "object",
-                    "properties": {
-                        "on_ground": {
-                            "type": "boolean"                    }
-                }
-            }
-        },
-        
         "condition_random_chance": {
             "properties": {
                 "condition": {
