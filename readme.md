@@ -1,6 +1,9 @@
+   > [!IMPORTANT]
+ > I am not the real owner of this, i just trying to update and improve this!
+
 # 🛠 Bedrock Loot-Table Generator
-> [!IMPORTANT]
-> I am not the real owner of this, i just trying to update and improve this!
+
+<hr style="border: 1px solid blue">
 
 # $${\color{orange}ChangeLog}$$ <sub>_(by decodingm)_</sub> 
 
@@ -8,8 +11,12 @@
 | --------- |  ------ |
 | `Add Trim` function| add trims to armors|
 |`enchantments` | list updated to 1.26 |
-| 
-| 
+|     |
+|     |
+
+
+---
+
 
 **⭐ [View the Website](https://bedrock-oss.github.io/bedrock-windmill/)Original ⭐**
 [This one](https://decodingm-bit.github.io/Loot-Gen-improving/)
