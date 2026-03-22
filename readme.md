@@ -2,10 +2,12 @@
 > [!IMPORTANT]
 > I am not the real owner of this, i just trying to update and improve this!
 
+# $${\color{orange}ChangeLog}$$ <sub>_(by decodingm)_</sub> 
+
 |  Features | Description |
 | --------- |  ------ |
 | `Add Trim` function| add trims to armors|
-|
+|`enchantments` | list updated to 1.26 |
 | 
 | 
 
