@@ -10,7 +10,7 @@
 |  Features | Description |
 | --------- |  ------ |
 | `Add Trim` function| add trims to armors|
-|`enchantments` | list updated to 1.26 |
+|`enchantments` | list updated to 1.26 [some glitched] breach,density,wind_burst,lunge |
 |     |
 |     |
 
