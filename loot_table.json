@@ -899,7 +899,7 @@
                             {
                                 "$ref": "#/definitions/function_set_book_contents",
                                 "title": "Set Book Contents",
-                                "description": "Will drop or give a written book with author's name and book title."
+                                "description": "Will drop or give a written book with author's name and book title. visible lines: 1-14. Max character:256. 1 line=..words"
                             },
                             {
                                  "$ref": "#/definitions/function_set_armor_trim",
@@ -939,7 +939,7 @@
                             {
                                 "$ref": "#/definitions/function_exploration_map",
                                 "title": "Exploration Map",
-                                "description": "Will drop a map that has an X marking a location."
+                                "description": "Will drop a map that has an X marking a location.Some Maps are not tested"
                             },
                             {
                                 "$ref": "#/definitions/function_random_block_state",
