@@ -809,7 +809,25 @@
                         "buriedtreasure",
                         "mineshaft",
                         "endcity",
-                        "fortress"
+                        "fortress",
+                        // Experimental maps 
+                         "trial_chambers",
+                        "stronghold",
+"ruins",
+"shipwreck",
+"pillageroutpost",
+"buriedtreasure",
+"mineshaft",
+"endcity",
+"fortress",
+                        "jungle_temple",
+"swamp_hut",
+                        "village_taiga",
+"village_snowy",
+"village_savanna",
+"village_plains",
+"village_desert"
+                        
                     ]
                 }
             }
