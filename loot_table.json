@@ -810,24 +810,22 @@
                         "mineshaft",
                         "endcity",
                         "fortress",
-                        
                          "trial_chambers",
                         "stronghold",
-"ruins",
-"shipwreck",
-"pillageroutpost",
-"buriedtreasure",
-"mineshaft",
-"endcity",
-"fortress",
+                        "ruins",
+                        "shipwreck",
+                        "pillageroutpost",
+                        "buriedtreasure",
+                        "mineshaft",
+                        "endcity",
+                        "fortress",
                         "jungle_temple",
-"swamp_hut",
+                        "swamp_hut",
                         "village_taiga",
-"village_snowy",
-"village_savanna",
-"village_plains",
-"village_desert"
-                        
+                        "village_snowy",
+                        "village_savanna",
+                        "village_plains",
+                        "village_desert"
                     ]
                 }
             }
