@@ -12,7 +12,7 @@
 | `Add Trim` function| add trims to armors|
 |`enchantments` | list updated to 1.26 |
 |`Exploration maps` | ⚠️Not tested. List updated to 26.30 |
-| `random_chance` condition |❌ Not added (it's similar to `has mark varient`|
+| `random_chance` condition |❌ Not added (it's similar to `has mark varient`)|
 
 ```js
 "conditions": [
