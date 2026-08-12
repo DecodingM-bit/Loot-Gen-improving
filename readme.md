@@ -22,6 +22,7 @@
     }
 ]
 ```
+- __Explorer map changes in beta/preview__ 26.50 _Changed naming on Explorer Maps Buried Ancient City, Buried Mineshaft, Desert Pyramid, Warm Ocean Ruins_
 
 
 ---
